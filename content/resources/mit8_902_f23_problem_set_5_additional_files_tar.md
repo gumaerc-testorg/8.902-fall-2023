@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/astrophysics-ii/mit8_902_f23_problem_set_5_additional_files.tar
+file: /ol-ocw-studio-app/courses/8-902-astrophysics-ii-fall-2023/mit8_902_f23_problem_set_5_additional_files.tar
 file_size: 1085440
 file_type: application/x-tar
 image_metadata:

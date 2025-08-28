@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/astrophysics-ii/mit8_902_f23_problem_set_4.pdf
+file: /ol-ocw-studio-app/courses/8-902-astrophysics-ii-fall-2023/mit8_902_f23_problem_set_4.pdf
 file_size: 158371
 file_type: application/pdf
 image_metadata:
