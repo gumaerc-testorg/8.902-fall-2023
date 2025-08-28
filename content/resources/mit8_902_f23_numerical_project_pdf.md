@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/astrophysics-ii/mit8_902_f23_numerical_project.pdf
+file: /ol-ocw-studio-app/courses/8-902-astrophysics-ii-fall-2023/mit8_902_f23_numerical_project.pdf
 file_size: 142504
 file_type: application/pdf
 image_metadata:

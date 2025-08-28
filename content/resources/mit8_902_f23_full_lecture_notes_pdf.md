@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: true
-file: courses/astrophysics-ii/mit8_902_f23_full_lecture_notes.pdf
+file: /ol-ocw-studio-app/courses/8-902-astrophysics-ii-fall-2023/mit8_902_f23_full_lecture_notes.pdf
 file_size: 4436984
 file_type: application/pdf
 image_metadata:
